@@ -25,12 +25,7 @@ ChainID is a decentralized identity and credential verification platform built o
 
 ## Embeddable Links
 
-[ChainID Demo](https://chainid-demo.andromedaprotocol.io)
-
-## Screenshots
-
-![Identity Dashboard](https://placeholder-image.com/chainid-dashboard-800x450.png)
-![Credential Verification](https://placeholder-image.com/chainid-verification-800x450.png)
+[ChainID Demo](https://chainid-protocol.vercel.app)
 
 ## Future Scope
 
